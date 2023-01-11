@@ -1,11 +1,11 @@
 ---
 title: opencv
 date: 2022-08-15 09:24:53
-tags:
+tags: 
 	- opencv,c++
-categories:
+categories: 
 	- opencv
-keywords:"opencv"
+keywords: "opencv"
 ---
 
 # 1.读取显示图像

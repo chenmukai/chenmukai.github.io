@@ -1,11 +1,11 @@
 ---
 title: script
-date: 2022-07-15 23:58:50
+date: 2022-07-15 23:00:26
 tags:
-	- Python
-categories：
-	-Python
-keywords:"python"
+  - python
+categories:
+  - python
+keywords: "python"
 ---
 
 ## 1.子图切割
